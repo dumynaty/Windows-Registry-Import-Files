@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00
+
+; Created by: dumynaty
+; Created on: Dec 10, 2025
+; Tutorial:
+https://github.com/dumynaty/Windows-Registry-Import-Files
+
+; Remove 'Open With Visual Studio' from Context Menu
+
+; Remove folder
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Shell Icons]

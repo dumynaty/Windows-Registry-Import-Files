@@ -1,0 +1,9 @@
+1. Execute "Remove shortcut Arrow Icon.reg"
+2. Restart Windows Explorer from Task Manager or kill explorer.exe process and start it again
+3. Done!
+
+If shortcut icons have a BLACK Block:
+4. Execute "Revert.reg"
+5. Execute "Remove shortcut Arrow Icon - Black block FIX.reg"
+6. Redo step 2
+7. If there is still a black box, execute "Remove shortcut Arrow Icon - Black block FIX 2.reg"
